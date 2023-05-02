@@ -61,3 +61,8 @@ In the next step of the ML project, I carried out the sum of rows and columns wi
 
 ### Building Recommender System on dataset using R
 I created a ```top_recommendations``` variable which I initialized to 10, specifying the number of films to each user. I then used the ```predict()``` function that identified similar items and ranked them appropriately. Here, each rating is used as a weight. Each weight is multiplied with related similarities. Finally, I added everything in the end.
+
+Credits:
+Yug Swarnkar(2114110528)
+Satyam Tiwari(2114110531)
+Saksham Tiwari(2114110532)
