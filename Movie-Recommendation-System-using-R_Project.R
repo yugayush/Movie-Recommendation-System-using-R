@@ -5,7 +5,7 @@ library(ggplot2)
 library(data.table)
 library(reshape2)
 # Retrieve and display data
-setwd("/Users/arpitabhattacharya/Desktop/Warwick /Internship/Github uploads/Movie recommendation - R/IMDB-Dataset")
+setwd("/Users/yugayush/Desktop/Github uploads/Movie recommendation - R/IMDB-Dataset")
 movie_data <- read.csv("movies.csv",stringsAsFactors=FALSE)
 rating_data <- read.csv("ratings.csv")
 str(movie_data)
